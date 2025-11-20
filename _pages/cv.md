@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Ethan Hernandez - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,23 +8,23 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [emh236@cornell.edu](mailto:emh236@cornell.edu) | | | **Phone:** +1 209 621 4785
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+I’m a Mechanical Engineer driven by a passion for designing and building systems that improve lives and contribute to a more sustainable world. I thrive in collaborative environments where creativity, problem-solving, and teamwork bring innovative ideas to life. I’m especially drawn to hands-on projects that blend technical precision with real-world impact.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 2.8/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
+- **[Benjamin Holt College Preparatory Academy]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [May, 2023]
 
 ---
 
@@ -36,35 +36,28 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **[Combat Robot Benjamin Rimshot Johm]**:  
+  *[Worked on the drivetrain subsystem builing a 12 pound combat robot]*  
+  - Won 2 battles at first competition with sturdy drivetrain design 
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[C2C Engineering] - Intern**  
+  [June, 2024] - [Present]  
+  - Produced mechanical, plumbing, and fire sprinkler systems using AutoCAD  
+  - Performed heat load calculations using TRACE 3D PLUS to size HVAC systems  
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- [Cornell Van Certified], [Cornell Fleet Services], [2025]   
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of [Combat Robotics @ Cornell Project Team]   
 
 ---
 
