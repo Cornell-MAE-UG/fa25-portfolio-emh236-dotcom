@@ -11,7 +11,6 @@ permalink: /cv/
 **Email:** [emh236@cornell.edu](mailto:emh236@cornell.edu) | | | **Phone:** +1 209 621 4785
 
 ---
-
 #### Objective
 I’m a Mechanical Engineer driven by a passion for designing and building systems that improve lives and contribute to a more sustainable world. I thrive in collaborative environments where creativity, problem-solving, and teamwork bring innovative ideas to life. I’m especially drawn to hands-on projects that blend technical precision with real-world impact.
 
